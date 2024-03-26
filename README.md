@@ -1,0 +1,1 @@
+# Automated-Fall-Detection-Using-Smartphone-Sensors
